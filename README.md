@@ -3,3 +3,7 @@
 Besides studying, my main projects are:
 - the [ingredient_collector](https://github.com/Slartibartfass2/ingredient_collector), which I created because I was too lazy collecting all the ingredients for a shopping list
 - the maintenance of [the beer pong rule set website, that I built with a friend](https://github.com/mowi12/bierpongregeln)
+
+<br>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Slartibartfass2/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io)
