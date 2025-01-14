@@ -8,4 +8,4 @@ Besides studying, my main projects are:
 
 <br>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Slartibartfass2/repos?time_range=one_year&loc_metric=changed&theme=light)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Slartibartfass2/repos?time_range=one_year&loc_metric=changed)](https://githubtrends.io)
