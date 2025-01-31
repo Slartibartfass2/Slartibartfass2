@@ -11,14 +11,14 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Slartibartfass2&theme=dark&layout=compact&card_width=250&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Slartibartfass2&theme=dark&layout=compact&card_width=250&langs_count=8&hide=c%2B%2B,cmake,c"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Slartibartfass2&show_icons=true&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Slartibartfass2&show_icons=true&layout=compact&langs_count=8&hide=c%2B%2B,cmake,c"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=Slartibartfass2&layout=compact&langs_count=10" />
+  <img src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=Slartibartfass2&layout=compact&langs_count=8&hide=c%2B%2B,cmake,c" />
 </picture>
 
 Besides studying, my main projects are:
