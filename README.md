@@ -1,6 +1,5 @@
 <div style="display: flex;flex-direction: row;">
-  <img src="https://githubcard.com/Slartibartfass2.svg?d=M41IcNIc" style="width: 49%" />
-  <img src="https://githubcard.com/Slartibartfass2.svg?d=0bC8mNSN" style="width: 49%" />
+  <img src="https://githubcard.com/Slartibartfass2.svg?d=M41IcNIc" />
 </div>
 
 Besides studying, my main projects are:
