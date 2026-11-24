@@ -2,7 +2,6 @@ University projects:
 - [snowballr](https://github.com/SE-UUlm/snowballr)
   - [snowballr-frontend](https://github.com/SE-UUlm/snowballr-frontend)
   - [snowballr-backend](https://github.com/SE-UUlm/snowballr-backend)
-  - [snowballr-api](https://github.com/SE-UUlm/snowballr-api)
   - [snowballr-ci](https://github.com/SE-UUlm/snowballr-ci)
 
 Besides studying, my main projects are:
